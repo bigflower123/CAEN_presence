@@ -1,0 +1,13 @@
+C:\Users\BAI P\Desktop\CAEN_presence_classe\CAEN_presence_classe\bin\Debug\CAEN_presence_classe.exe
+C:\Users\BAI P\Desktop\CAEN_presence_classe\CAEN_presence_classe\bin\Debug\CAEN_presence_classe.pdb
+C:\Users\BAI P\Desktop\CAEN_presence_classe\CAEN_presence_classe\bin\Debug\CAENRFIDLibrary.dll
+C:\Users\BAI P\Desktop\CAEN_presence_classe\CAEN_presence_classe\obj\x86\Debug\CAEN_presence_classe.csprojResolveAssemblyReference.cache
+C:\Users\BAI P\Desktop\CAEN_presence_classe\CAEN_presence_classe\obj\x86\Debug\CAEN_presence_classe.mainForm.resources
+C:\Users\BAI P\Desktop\CAEN_presence_classe\CAEN_presence_classe\obj\x86\Debug\CAEN_presence_classe.Properties.Resources.resources
+C:\Users\BAI P\Desktop\CAEN_presence_classe\CAEN_presence_classe\obj\x86\Debug\CAEN_presence_classe.csproj.GenerateResource.Cache
+C:\Users\BAI P\Desktop\CAEN_presence_classe\CAEN_presence_classe\obj\x86\Debug\CAEN_presence_classe.exe
+C:\Users\BAI P\Desktop\CAEN_presence_classe\CAEN_presence_classe\obj\x86\Debug\CAEN_presence_classe.pdb
+C:\Users\BAI P\Desktop\CAEN_presence_classe\CAEN_presence_classe\obj\x86\Debug\CAEN_presence_classe.registerForm.resources
+C:\Users\BAI P\Desktop\CAEN_presence_classe\CAEN_presence_classe\obj\x86\Debug\CAEN_presence_classe.FormAlert.resources
+C:\Users\BAI P\Desktop\SE_Peng_Lin\code source\CAEN_presence_classe\CAEN_presence_classe\obj\x86\Debug\CAEN_presence_classe.exe
+C:\Users\BAI P\Desktop\SE_Peng_Lin\code source\CAEN_presence_classe\CAEN_presence_classe\obj\x86\Debug\CAEN_presence_classe.pdb
