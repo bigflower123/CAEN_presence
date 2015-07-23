@@ -4,4 +4,4 @@ Dans ce code, si on change l'environement, il faut changer l'adresse de base de 
 
 avec les fichiers "Form1.cs" et "registerForm.cs" , le code origine ci-dessous:
 
---@"Data Source = C:/Users/BAI P/Desktop/CAEN_presence_classe/studentsInfos.accdb ";
+--@"Data Source = C:/Users/Exemple/Desktop/CAEN_presence_classe/studentsInfos.accdb ";
